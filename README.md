@@ -11,8 +11,6 @@ My purpose in creating this app was to get practice creating a Android app and u
 the inputs to change what the app displayed and see how Android apps work. I enjoyed making this app and look forward to what else I can accomplish with Android apps in the 
 future.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtu.be/IUGCuZrBxpQ?hd=1)
 
 # Development Environment
